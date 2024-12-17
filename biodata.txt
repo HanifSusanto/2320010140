@@ -2,3 +2,4 @@ NO.REG : 2320010140
 Nama : Hanif Susanto
 Jurusan : Software Engineer
 Semester : 3
+Angkatan : 23
